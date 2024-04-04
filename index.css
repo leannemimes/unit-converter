@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: Inter;
 }
 
 .header{
@@ -35,7 +36,6 @@ button{
     flex-direction: column;
     align-items: center;
     background: #1F2937;
-    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     color: #CCC1FF;
